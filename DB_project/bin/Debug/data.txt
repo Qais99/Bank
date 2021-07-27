@@ -1,0 +1,5 @@
+name 	balance 	phone number 
+qais	 411.325	792671916
+omar	 1320.326	7926598
+mohamad	 20.3265	7956425
+ahmad	 40.23	7926589
